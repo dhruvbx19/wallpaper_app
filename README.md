@@ -1,17 +1,32 @@
-# dark_mode
+# WallGram
 
-A new Flutter project.
+<img src="assets/icon.png" alt="WallGram Logo" width="100" height="100">
 
-## Getting Started
+<!-- ![WallGram Logo](assets/icon.png) -->
 
-This project is a starting point for a Flutter application.
+## Description
+WallGram is an elegant Flutter application that connects to the Unsplash API to provide users with a stunning collection of high-quality photos. With WallGram, you can browse through beautiful images, load more photos dynamically, and set your favorite picture as the wallpaper directly from the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Live photo feed from Unsplash API.
+- Load More feature for seamless photo browsing.
+- Set any photo as device wallpaper with a single tap.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+1. Home Screen:
+   ![Home Screen](assets/home_screen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# wallpaper_app
+2. Load More Feature:
+   ![Load More Feature](assets/load_more_screen.png)
+
+3. Set Wallpaper:
+   ![Set Wallpaper](assets/set_wallpaper_screen.png)
+
+## Video Demo
+Watch a demo of WallGram on YouTube:
+[![WallGram Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/wallgram.git
