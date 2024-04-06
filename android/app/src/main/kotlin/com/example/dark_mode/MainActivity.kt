@@ -1,4 +1,4 @@
-package com.example.dark_mode
+package com.example.Wallgram
 
 import io.flutter.embedding.android.FlutterActivity
 

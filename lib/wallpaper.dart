@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 
-import 'package:dark_mode/fullscreen.dart';
+import 'package:Wallgram/fullscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
@@ -97,7 +97,7 @@ class _WallpaperState extends State<Wallpaper> {
     return Scaffold(
       appBar: AppBar(
         actions: [
-          IconButton(onPressed: () {}, icon: Icon(Icons.dark_mode_outlined))
+          IconButton(onPressed: () {}, icon: Icon(Icons.dark_mode))
         ],
         title: Text(
           'Wallpaper App',

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="dark_mode"
+        android:label="Wallgram"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

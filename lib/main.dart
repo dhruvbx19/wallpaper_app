@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 
-import 'package:dark_mode/wallpaper.dart';
+import 'package:Wallgram/wallpaper.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(brightness: Brightness.dark),
-      debugShowCheckedModeBanner: false ,
+      debugShowCheckedModeBanner: false,
       home: Wallpaper(),
     );
   }
