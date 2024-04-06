@@ -14,7 +14,7 @@ WallGram is an elegant Flutter application that connects to the Unsplash API to 
 
 ## Screenshots
 1. Home Screen:
-   ![Home Screen](assets/image5.jpeg)
+   ![Home Screen](assets/image5.jpg)
 
 2. Set Wallpaper:
    ![Set Wallpaper](assets/image1.jpeg)
